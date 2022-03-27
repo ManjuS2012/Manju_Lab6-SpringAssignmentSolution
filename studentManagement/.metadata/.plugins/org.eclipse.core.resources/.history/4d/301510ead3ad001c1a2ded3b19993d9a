@@ -1,0 +1,5 @@
+package com.greatLearning.studentManagement.entity;
+
+public class User {
+
+}

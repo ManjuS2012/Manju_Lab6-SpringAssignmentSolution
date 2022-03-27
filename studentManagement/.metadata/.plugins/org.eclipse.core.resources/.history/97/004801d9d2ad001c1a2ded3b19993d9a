@@ -1,0 +1,5 @@
+package com.greatLearning.studentManagement.security;
+
+public class MyUserDetails {
+
+}
